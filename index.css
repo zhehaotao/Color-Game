@@ -1,7 +1,6 @@
 body{
     background-color: #232323;
     margin: 0;
-    font-family: "Montserrat", "Avenir";
 }
 
 .square{
@@ -22,6 +21,7 @@ h1{
     line-height: 1.1;
     background-color: steelblue;
     margin: 0;
+    font-family: 'Pacifico', cursive;
     font-weight: 100;
     text-transform: uppercase;
     padding: 20px 0;
@@ -30,6 +30,8 @@ h1{
 #message{
     display: inline-block;
     width: 20%;
+    font-family: 'Bree Serif', serif;
+    color: steelblue;
 }
 
 #stripe{
@@ -52,7 +54,8 @@ button{
     background: none;
     text-align: center;
     height: 100%;
-    font-weight: 700;
+    font-family: 'Bree Serif', serif;
+    font-weight: 500;
     text-transform: uppercase;
     color: steelblue;
     font-size: inherit;
@@ -83,7 +86,7 @@ button:hover{
     max-width: 360px;  
 }
 
-/* #container{
+#container{
     margin: 20px auto;
     max-width: 400px;
-} */
+}
