@@ -16,3 +16,7 @@ Play with this fun and interactive RGB Color Game. Choose the right color which 
 * JavaScript
 * HTML
 * CSS
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](https://github.com/zhehaotao/Color-Game/blob/master/LICENSE) for details.
